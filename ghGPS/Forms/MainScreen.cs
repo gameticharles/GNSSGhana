@@ -260,7 +260,7 @@ namespace ghGPS
             _SQLiteHelper.DatabaseFile = "GNSSGhanaDB.db3";
 
             //Set a password
-            _SQLiteHelper.Password = null;// "ReClipPassword";
+            _SQLiteHelper.Password = null;
         }
 
         /// <summary>
@@ -865,7 +865,5 @@ namespace ghGPS
             MainScreenTitle.Text = title + " - GNSS Ghana";
             MainScreenTitle.Refresh();
         }
-
-       
     }
 }
