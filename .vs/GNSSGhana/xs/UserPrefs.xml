@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8EB2E8BD-0455-4509-A813-55A2ECFE3C85}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GNSSGhana" expanded="True">
+            <Node name="GNSSGhana" expanded="True">
+              <Node name="User Forms" expanded="True" />
+            </Node>
+            <Node name="GNSSUpdate" expanded="True">
+              <Node name="GNSSUpdateAcceptForm.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GNSSGhana PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,582 @@
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csprojAssemblyReference.cache
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/Interop.MapWinGIS.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.ResolveComReference.cache
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/teqc.exe
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/jni4net.j-0.8.8.0.jar
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Classes/Elipsoid.csv
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Classes/SRID.csv
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Classes/TransParameter.csv
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/rtkpost.ini
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/rtkpost.exe
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.exe.config
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.exe
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.pdb
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/AxInterop.MapWinGIS.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Data.v16.2.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Office.v16.2.Core.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Pdf.v16.2.Core.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Printing.v16.2.Core.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.RichEdit.v16.2.Core.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Utils.v16.2.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraBars.v16.2.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraEditors.v16.2.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraGrid.v16.2.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraPrinting.v16.2.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraRichEdit.v16.2.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DotSpatial.Projections.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.SqlServer.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/FileAssociation.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GChartLib.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSSUpdate.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GongShell.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/jni4net.n-0.8.8.0.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MatrixLib.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MetroFramework.Design.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MetroFramework.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MetroFramework.Fonts.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MetroSuite 2.0.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ObjectListView.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ProjNET.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/RTKSharp.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.EF6.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.Linq.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ZedGraph.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Interop.MapWinGIS.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Sparkline.v16.2.Core.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraLayout.v16.2.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraTreeList.v16.2.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/stdole.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSSUpdate.pdb
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MatrixLib.pdb
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ProjNET.pdb
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Data.v16.2.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Office.v16.2.Core.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Pdf.v16.2.Core.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Printing.v16.2.Core.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.RichEdit.v16.2.Core.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Utils.v16.2.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraBars.v16.2.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraEditors.v16.2.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraGrid.v16.2.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraPrinting.v16.2.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraRichEdit.v16.2.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.SqlServer.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.dll.config
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Sparkline.v16.2.Core.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraLayout.v16.2.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraTreeList.v16.2.xml
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Data.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Data.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Data.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Data.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Office.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Office.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Office.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Office.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Pdf.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Pdf.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Pdf.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Pdf.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Printing.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Printing.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Printing.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Printing.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.RichEdit.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.RichEdit.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.RichEdit.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.RichEdit.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Utils.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Utils.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Utils.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Utils.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraBars.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraBars.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraBars.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraBars.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraEditors.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraEditors.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraEditors.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraEditors.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraGrid.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraGrid.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraGrid.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraGrid.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraPrinting.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraPrinting.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraPrinting.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraPrinting.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraRichEdit.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraRichEdit.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraRichEdit.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraRichEdit.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Sparkline.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Sparkline.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Sparkline.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Sparkline.v16.2.Core.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraLayout.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraLayout.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraLayout.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraLayout.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraTreeList.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraTreeList.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraTreeList.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraTreeList.v16.2.resources.dll
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CoordinateSystem.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateCRS.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateTraversePath.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TheEllipsoids.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.ExportResults.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.FileToTable.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.LinearUnits.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.MainScreen.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.openFileBrowser.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.SetBaseCoordinates.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.Tester.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TransParamLists.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitingForm.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitLoadingForm.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Properties.Resources.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.About.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.BaseLineChart.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CoordinateConversion.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CreateProject.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.DataPreview.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GlobalSettings.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GNSSDataImport.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CadastralReoprtDataImport.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProcessResults.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProjectionParameterItem.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.projectItem.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RecentStartScreen.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RINEXTEQC.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxDataImport.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxEditHeader.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxMerge_Split.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxQualityCheck.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxRINEX_Viewer.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxSummary.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxTranslation_Convert.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerEphemeris.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerIonoParameter.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerMeasurement.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerSatellite.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerTime_Epoch.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.GenerateResource.cache
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe.licenses
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.CoreCompileInputs.cache
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.CopyComplete
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.pdb
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.WGS84_ConversionInfoItem.resources
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.exe.manifest
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.application
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe.manifest
+C:/Users/REINDROID/Dropbox/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.application
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/teqc.exe
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/jni4net.j-0.8.8.0.jar
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Classes/Elipsoid.csv
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Classes/SRID.csv
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Classes/TransParameter.csv
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/rtkpost.ini
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/rtkpost.exe
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.exe.config
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.exe.manifest
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.application
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.exe
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.pdb
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/AxInterop.MapWinGIS.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Data.v16.2.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Office.v16.2.Core.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Pdf.v16.2.Core.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Printing.v16.2.Core.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.RichEdit.v16.2.Core.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Utils.v16.2.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraBars.v16.2.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraEditors.v16.2.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraGrid.v16.2.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraPrinting.v16.2.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraRichEdit.v16.2.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.SqlServer.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.Core.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.Free.Documents.Controls.WinForms.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.Free.Documents.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.XtremeFontEngine.4.0.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.XtremeImageEngine.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSSUpdate.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Ionic.Zip.Reduced.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/jni4net.n-0.8.8.0.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/log4net.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MatrixLib.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ProjNET.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/RTKSharp.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.EF6.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.Linq.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Sparkline.v16.2.Core.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraLayout.v16.2.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraTreeList.v16.2.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSSUpdate.pdb
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MatrixLib.pdb
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ProjNET.pdb
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Data.v16.2.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Office.v16.2.Core.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Pdf.v16.2.Core.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Printing.v16.2.Core.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.RichEdit.v16.2.Core.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Utils.v16.2.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraBars.v16.2.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraEditors.v16.2.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraGrid.v16.2.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraPrinting.v16.2.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraRichEdit.v16.2.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.SqlServer.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.dll.config
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Sparkline.v16.2.Core.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraLayout.v16.2.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraTreeList.v16.2.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Data.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Data.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Data.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Data.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Office.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Office.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Office.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Office.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Pdf.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Pdf.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Pdf.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Pdf.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Printing.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Printing.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Printing.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Printing.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.RichEdit.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.RichEdit.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.RichEdit.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.RichEdit.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Utils.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Utils.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Utils.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Utils.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraBars.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraBars.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraBars.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraBars.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraEditors.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraEditors.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraEditors.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraEditors.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraGrid.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraGrid.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraGrid.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraGrid.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraPrinting.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraPrinting.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraPrinting.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraPrinting.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraRichEdit.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraRichEdit.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraRichEdit.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraRichEdit.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.Sparkline.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.Sparkline.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.Sparkline.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.Sparkline.v16.2.Core.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraLayout.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraLayout.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraLayout.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraLayout.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/de/DevExpress.XtraTreeList.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/es/DevExpress.XtraTreeList.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ja/DevExpress.XtraTreeList.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ru/DevExpress.XtraTreeList.v16.2.resources.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Interop.MapWinGIS.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csprojAssemblyReference.cache
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/Interop.MapWinGIS.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.ResolveComReference.cache
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CoordinateSystem.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateCRS.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateTraversePath.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TheEllipsoids.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.ExportResults.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.FileToTable.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.LinearUnits.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.MainScreen.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.openFileBrowser.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.SetBaseCoordinates.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.Tester.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TransParamLists.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitingForm.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitLoadingForm.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Properties.Resources.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.BaseLineChart.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CoordinateConversion.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CreateProject.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.DataPreview.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GlobalSettings.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GNSSDataImport.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CadastralReoprtDataImport.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProcessResults.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProjectionParameterItem.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.projectItem.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RecentStartScreen.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RINEXTEQC.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxDataImport.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxEditHeader.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxMerge_Split.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxQualityCheck.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxRINEX_Viewer.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxSummary.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxTranslation_Convert.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerEphemeris.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerIonoParameter.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerMeasurement.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerSatellite.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerTime_Epoch.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.WGS84_ConversionInfoItem.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.GenerateResource.cache
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe.licenses
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.CoreCompileInputs.cache
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe.manifest
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.application
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.CopyComplete
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.pdb
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/stdole.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Microsoft.DirectX.AudioVideoPlayback.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Microsoft.DirectX.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Microsoft.DirectX.Direct3D.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Microsoft.DirectX.Direct3D.xml
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.Tutorials.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Interop.WMPLib.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/AxInterop.WMPLib.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/Interop.WMPLib.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/AxInterop.WMPLib.dll
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.About.resources
+C:/Users/This PC/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.Abouts.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/teqc.exe
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/jni4net.j-0.8.8.0.jar
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Classes/Elipsoid.csv
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Classes/SRID.csv
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Classes/TransParameter.csv
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/rtkpost.ini
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/rtkpost.exe
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.exe.config
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.exe.manifest
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.application
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.exe
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSS Ghana.pdb
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/AxInterop.MapWinGIS.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Data.v16.2.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Office.v16.2.Core.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Pdf.v16.2.Core.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Printing.v16.2.Core.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.RichEdit.v16.2.Core.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.Utils.v16.2.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraBars.v16.2.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraEditors.v16.2.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraGrid.v16.2.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraPrinting.v16.2.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/DevExpress.XtraRichEdit.v16.2.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.SqlServer.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.Core.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.Free.Documents.Controls.WinForms.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.Free.Documents.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.XtremeFontEngine.4.0.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Gnostice.XtremeImageEngine.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSSUpdate.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Ionic.Zip.Reduced.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/jni4net.n-0.8.8.0.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/log4net.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MatrixLib.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Microsoft.DirectX.AudioVideoPlayback.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Microsoft.DirectX.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ProjNET.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/RTKSharp.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.EF6.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.Linq.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Microsoft.DirectX.Direct3D.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/GNSSUpdate.pdb
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/MatrixLib.pdb
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/ProjNET.pdb
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.xml
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EntityFramework.SqlServer.xml
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.xml
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/System.Data.SQLite.dll.config
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Microsoft.DirectX.Direct3D.xml
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Interop.MapWinGIS.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/Interop.WMPLib.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/AxInterop.WMPLib.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csprojAssemblyReference.cache
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/Interop.MapWinGIS.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/Interop.WMPLib.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/AxInterop.WMPLib.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.ResolveComReference.cache
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.About.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CoordinateSystem.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateCRS.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateTraversePath.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TheEllipsoids.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.ExportResults.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.FileToTable.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.LinearUnits.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.MainScreen.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.openFileBrowser.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.SetBaseCoordinates.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.Tester.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TransParamLists.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitingForm.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitLoadingForm.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.Properties.Resources.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.Abouts.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.BaseLineChart.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CoordinateConversion.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CreateProject.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.DataPreview.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GlobalSettings.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GNSSDataImport.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CadastralReoprtDataImport.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProcessResults.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProjectionParameterItem.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.projectItem.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RecentStartScreen.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RINEXTEQC.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxDataImport.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxEditHeader.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxMerge_Split.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxQualityCheck.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxRINEX_Viewer.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxSummary.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxTranslation_Convert.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerEphemeris.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerIonoParameter.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerMeasurement.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerSatellite.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerTime_Epoch.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.Tutorials.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.WGS84_ConversionInfoItem.resources
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.GenerateResource.cache
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe.licenses
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe.manifest
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.application
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.CopyComplete
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/obj/Debug/GNSS Ghana.pdb
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EPPlus.dll
+C:/Users/Geomatix PC0/Documents/MEGA/MEGAsync Uploads/Masters Project 2017-18/ghGPS/ghGPS/bin/Debug/EPPlus.xml
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/GNSSGhana.csprojAssemblyReference.cache
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/Interop.WMPLib.dll
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/AxInterop.WMPLib.dll
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.ResolveComReference.cache
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.About.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CoordinateSystem.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateCRS.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateTraversePath.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TheEllipsoids.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.ExportResults.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.FileToTable.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.LinearUnits.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.MainScreen.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.openFileBrowser.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.SetBaseCoordinates.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.Tester.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TransParamLists.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitingForm.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitLoadingForm.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Properties.Resources.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.Abouts.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.BaseLineChart.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CoordinateConversion.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CreateProject.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.DataPreview.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GlobalSettings.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GNSSDataImport.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CadastralReoprtDataImport.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProcessResults.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProjectionParameterItem.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.projectItem.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RecentStartScreen.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RINEXTEQC.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxDataImport.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxEditHeader.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxMerge_Split.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxQualityCheck.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxRINEX_Viewer.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxSummary.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxTranslation_Convert.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerEphemeris.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerIonoParameter.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerMeasurement.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerSatellite.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerTime_Epoch.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.Tutorials.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.WGS84_ConversionInfoItem.resources
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.GenerateResource.cache
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe.licenses
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe
+C:/Users/reing/OneDrive/Documents/MEGAsync/APPS/ghGPS/ghGPS/obj/Debug/GNSS Ghana.pdb
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.AssemblyReference.cache
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.SuggestedBindingRedirects.cache
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/Interop.WMPLib.dll
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/AxInterop.WMPLib.dll
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.ResolveComReference.cache
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.About.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CoordinateSystem.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateCRS.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.CreateTraversePath.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TheEllipsoids.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.ExportResults.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.FileToTable.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.LinearUnits.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.MainScreen.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.openFileBrowser.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.SetBaseCoordinates.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.Tester.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.TransParamLists.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitingForm.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Forms.WaitLoadingForm.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.Properties.Resources.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.Abouts.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.BaseLineChart.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CoordinateConversion.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CreateProject.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.DataPreview.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GlobalSettings.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.GNSSDataImport.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.CadastralReoprtDataImport.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProcessResults.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.ProjectionParameterItem.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.projectItem.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RecentStartScreen.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.RINEXTEQC.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxDataImport.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxEditHeader.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxMerge_Split.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxQualityCheck.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxRINEX_Viewer.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxSummary.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxTranslation_Convert.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerEphemeris.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerIonoParameter.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerMeasurement.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerSatellite.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.rnxViewerTime_Epoch.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.Tutorials.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/ghGPS.User_Forms.WGS84_ConversionInfoItem.resources
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.GenerateResource.cache
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe.licenses
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe
+D:/MINE/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSS Ghana.pdb
+/Volumes/Storage Drive/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSSGhana.csproj.AssemblyReference.cache
+/Volumes/Storage Drive/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe.config
+/Volumes/Storage Drive/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSS Ghana.exe
+/Volumes/Storage Drive/MEGAsync/CONTRACTS/2020/APPS/APPS/ghGPS/ghGPS/obj/Debug/GNSS Ghana.pdb

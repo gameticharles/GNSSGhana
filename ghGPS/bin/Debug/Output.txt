@@ -1,0 +1,2 @@
+
+teqc: ! Error ! cannot fopen argument file '2015_07_08-18_46_54-gps.19o' in r(ead) mode ... exiting

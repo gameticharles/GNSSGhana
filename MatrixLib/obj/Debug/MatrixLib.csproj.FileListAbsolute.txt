@@ -1,0 +1,5 @@
+C:\Users\Reindroid\Dropbox\Masters Project 2017-18\ghGPS\MatrixLib\bin\Debug\MatrixLib.dll
+C:\Users\Reindroid\Dropbox\Masters Project 2017-18\ghGPS\MatrixLib\bin\Debug\MatrixLib.pdb
+C:\Users\Reindroid\Dropbox\Masters Project 2017-18\ghGPS\MatrixLib\obj\Debug\MatrixLib.dll
+C:\Users\Reindroid\Dropbox\Masters Project 2017-18\ghGPS\MatrixLib\obj\Debug\MatrixLib.pdb
+C:\Users\Reindroid\Dropbox\Masters Project 2017-18\ghGPS\MatrixLib\obj\Debug\MatrixLib.csprojResolveAssemblyReference.cache
